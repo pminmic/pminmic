@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pau!
 
-🎓 Double Degree student in Business Administration and Computer Engineering at UPV.
+🎓 Double Degree student in Business Administration and Computer Engineering at UPV.  
 📚 Passionate about learning and always curious about new technologies.
 
 ## 🚀 About Me
@@ -16,7 +16,7 @@
 
 ## 📫 Contact
 
-📧 [pminmic@gmail.com]
+📧 [pminmic@gmail.com]  
 🐙 [GitHub](https://github.com/pminmic)
 
 ---
