@@ -16,7 +16,7 @@
 
 ## 📫 Contact
 
-📧 [pminmic@gmail.com]  
+📧 [pminmic@gmail.com](mailto:pminmic@gmail.com)  
 🐙 [GitHub](https://github.com/pminmic)
 
 ---
