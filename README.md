@@ -12,8 +12,10 @@
 ## 📌 Certificates / Courses
 
 - [FreeCodeCamp](https://www.freecodecamp.org/)
+  -  [Responsive Web Design](https://www.freecodecamp.org/certification/migueldebogavante/responsive-web-design)
   -  [Relational Database](https://www.freecodecamp.org/certification/migueldebogavante/relational-database-v8)
   -  [Scientific Computing with Python](https://www.freecodecamp.org/certification/migueldebogavante/scientific-computing-with-python-v7)
+
 
 ## 📫 Contact
 
