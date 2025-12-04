@@ -43,24 +43,17 @@
 
 ----
 
-### 📊 Analytics
-
-<div align="center">
-  <img src="https://github.com/pminmic/pminmic/blob/main/github-metrics.svg" alt="Metrics" width="100%">
-</div>
-
 ### 🐍 Contribution Graph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pminmic&theme=dark)](https://git.io/streak-stats)
 
 ------------------------------------------------------------------------
 
-```{=html}
-<div align="center"\>
+
+<div align="center">
 <p>
 📫 <b>Contact:</b> <a href="mailto:pminmic@gmail.com" >pminmic@gmail.com</a> •
 🐙 <a href="https://github.com/pminmic">GitHub</a>
 </p>
 <sub>🚀 <i>"Code is poetry."</i></sub>
 </div>
-```
