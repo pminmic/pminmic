@@ -41,13 +41,12 @@
 | [**Relational Database**](https://www.freecodecamp.org/certification/migueldebogavante/relational-database-v8) | FreeCodeCamp | PostgreSQL, Bash |
 | [**Responsive Web Design**](https://www.freecodecamp.org/certification/migueldebogavante/responsive-web-design) | FreeCodeCamp | HTML5, CSS3 |
 
-### 📊 GitHub Analytics
+----
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pminmic&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000&amp;title_color=4CAF50&amp;icon_color=4CAF50&amp;text_color=4CAF50" height="50%" width="auto"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pminmic&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=4CAF50&amp;text_color=4CAF50&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php&amp;exclude_repo=Pacman-AI" height="50%" width="auto"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=pminmic&amp;hide_border=true&amp;background=FFFFFF00&amp;ring=4CAF50&amp;fire=4CAF50&amp;currStreakLabel=4CAF50"/>
-
-</p>
+### 📊 Weekly Analytics
+<div align="center">
+  <img src="https://github.com/pminmic/pminmic/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 ### 🐍 Contribution Graph
 
