@@ -1,10 +1,10 @@
 [![](https://readme-typing-svg.demolab.com?font=Monaspace+Krypton&size=25&pause=1000&color=B262F7&center=true&vCenter=true&width=1000&lines=I'm+Pau!;Business+%2B+Computer+Engineering;+Welcome+to+my+repo!)](https://git.io/typing-svg)
 
-::: {align="center"}
+
 <h3>🎓 UPV Double Degree Student: ADE + Computer Engineering</h3>
 
 <p><i>Building the bridge between Business Strategy and Software Architecture.</i></p>
-:::
+
 
 ------------------------------------------------------------------------
 
