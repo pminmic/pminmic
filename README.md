@@ -46,13 +46,7 @@
 ### 📊 Analytics
 
 <div align="center">
-  <a href="https://github.com/pminmic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pminmic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=3382F7&title_color=3382F7&count_private=true&include_all_commits=true" alt="Pau's Stats" />
-  </a>
-  
-  <a href="https://github.com/pminmic">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pminmic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3382F7" alt="Top Languages" />
-  </a>
+  <img src="https://github.com/pminmic/pminmic/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
 ### 🐍 Contribution Graph
